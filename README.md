@@ -5,7 +5,7 @@ Using [Jekyll](http://jekyllrb.com), and [Michael Rose](http://mademistakes.com/
 Manging the site is fairly simple - but as the site is large, it's easy to get lost. This document is your best friend.
 
 ## Management
-Please see the [wiki](https://github.com/shakna-israel/haddonRevamp/wiki).
+Please see the [wiki](https://github.com/HaddonCommunityLearningCentre/HaddonCommunityLearningCentre.github.io/wiki).
 
 ** If you get an error, please contact support.**
 
