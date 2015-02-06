@@ -10,6 +10,6 @@ modified: {}
 published: true
 ---
 
-<a href="//github.com/shakna-israel/haddonRevamp/wiki" target="_blank">Click here for the wiki.</a>
+<a href="//github.com/HaddonCommunityLearningCentre/HaddonCommunityLearningCentre.github.io/wiki" target="_blank">Click here for the wiki.</a>
 
-<a href="//prose.io" target="_blank">Click here for Prose.</a>
+<a href="http://prose.io/#HaddonCommunityLearningCentre/HaddonCommunityLearningCentre.github.io" target="_blank">Click here for Prose.</a>
