@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 permalink: /advertising/
 title: Advertising
