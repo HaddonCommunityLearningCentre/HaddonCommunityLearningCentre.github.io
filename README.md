@@ -8,3 +8,13 @@ Manging the site is fairly simple - but as the site is large, it's easy to get l
 Please see the [wiki](https://github.com/shakna-israel/haddonRevamp/wiki).
 
 ** If you get an error, please contact support.**
+
+#NEVER
+
+Directly edit the website on GitHub.
+
+This breaks the hooks that in place and responsible for:
+
+* Ensuring the latest version of the website goes live.
+* Versioning happens correctly, so backups exist and can be rolled back to.
+* Prose continues to function correctly.
