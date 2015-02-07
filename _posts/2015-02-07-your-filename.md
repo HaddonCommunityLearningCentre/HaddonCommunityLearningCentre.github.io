@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: Post by Nick
 comments: true
 share: true
 acfe: true
