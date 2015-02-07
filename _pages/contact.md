@@ -1,9 +1,20 @@
 ---
+published: true
 layout: page
 permalink: /contact/
 title: Contact
-tags: [about, contact, map, learn, local, employer, learner, courses]
-modified: 2014-09-23
+tags: 
+  - about
+  - contact
+  - map
+  - learn
+  - local
+  - employer
+  - learner
+  - courses
+  - "about,contact,map,learn,local,employer,learner,courses"
+modified: {}
+slider: true
 ---
 
 ##Contact
@@ -16,9 +27,8 @@ Haddon, Victoria, 3351
 
 Phone: [{{ site.phone }}](tel:{{ site.phone_link }})
 
-10am till 4pm
+Tues - Fri | 10am till 4pm
 
-Tues - Fri
 
  <form action="https://docs.google.com/forms/d/1810nqTyOU6z60nSWKGEjt6Z71FsBlu8g6s1bzJ7QPVo/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
 <div class="ss-form-question errorbox-good" role="listitem">
