@@ -27,7 +27,7 @@ Haddon, Victoria, 3351
 
 Phone: [{{ site.phone }}](tel:{{ site.phone_link }})
 
-Tues - Fri | 10am till 4pm
+Tues - Fri | | 10am till 4pm
 
 
  <form action="https://docs.google.com/forms/d/1810nqTyOU6z60nSWKGEjt6Z71FsBlu8g6s1bzJ7QPVo/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
