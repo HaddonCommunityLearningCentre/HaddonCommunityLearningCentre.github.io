@@ -16,8 +16,9 @@ tags:
   - course
   - guide
   - "courses,learning,learn,advertise,business,small,teach,enrolment,advertising,course,guide"
+  - "courses,learning,learn,advertise,business,small,teach,enrolment,advertising,course,guide,courses,learning,learn,advertise,business,small,teach,enrolment,advertising,course,guide"
 modified: {}
-slider: true
+slider: false
 ---
 
 ##Advertising
