@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "*INTEL® LEARN EASY STEPS PROGRAM LEVEL 1 & LEVEL 2"
 comments: false
 share: true
