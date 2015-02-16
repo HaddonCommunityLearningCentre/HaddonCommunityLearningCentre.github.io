@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Introduction to creating Mosiacs
 comments: false
 share: true
