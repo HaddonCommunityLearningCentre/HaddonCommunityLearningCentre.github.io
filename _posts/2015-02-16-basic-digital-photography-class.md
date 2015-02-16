@@ -2,9 +2,9 @@
 layout: post
 published: false
 title: BASIC DIGITAL PHOTOGRAPHY CLASS
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
 ---
 
 This is a beginners six week morning introduction class to digital photography that will cover tips on how to compose a good photograph.
