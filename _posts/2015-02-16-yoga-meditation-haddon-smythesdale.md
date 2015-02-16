@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: "YOGA/MEDITATION ~ HADDON & SMYTHESDALE"
-comments: true
+comments: false
 share: true
 acfe: false
 ---
