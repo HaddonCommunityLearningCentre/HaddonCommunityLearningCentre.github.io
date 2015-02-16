@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: MAKE A GREAT PHOTOBOOK
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 Learn how to edit your images and photos to create impressive photo boards and photo books both printed books and e-books.
