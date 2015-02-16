@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "*IPADS/TABLETS FOR BEGINNERS"
 comments: false
 share: true
