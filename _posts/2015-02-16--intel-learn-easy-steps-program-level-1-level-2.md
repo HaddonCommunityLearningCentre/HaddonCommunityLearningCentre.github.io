@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: "*INTEL® LEARN EASY STEPS PROGRAM LEVEL 1 & LEVEL 2"
-comments: true
+comments: false
 share: true
 acfe: true
 ---
