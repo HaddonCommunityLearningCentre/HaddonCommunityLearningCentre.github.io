@@ -2,9 +2,9 @@
 layout: post
 published: false
 title: "ZINGY ZENTANGLES BEGINNERS & ADVANCED CLASS"
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
 ---
 
 All patterns are made up from five basic elements - they are easy to learn and it’s
