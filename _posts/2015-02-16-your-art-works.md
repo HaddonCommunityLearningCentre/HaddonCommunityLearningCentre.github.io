@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: "YOUR ART WORKS*"
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 This new exciting course has been developed for learners of all levels.
