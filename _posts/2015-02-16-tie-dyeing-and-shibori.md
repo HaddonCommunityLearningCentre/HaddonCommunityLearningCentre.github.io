@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: TIE DYEING AND SHIBORI
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 Using the oldest traditional Japanese fabric dying technique, Shibori (that translates roughly as pole wrapping), create your own work of art.
