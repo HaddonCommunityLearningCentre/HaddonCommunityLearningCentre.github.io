@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: POLYMER CLAY JEWELLERY
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 Come along and make something personal and just for you.
