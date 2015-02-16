@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: DESIGN AN ENTRY FOR THE SCARF FESTIVAL
 comments: true
 share: true
