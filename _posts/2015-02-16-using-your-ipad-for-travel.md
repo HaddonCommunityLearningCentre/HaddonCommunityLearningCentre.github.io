@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: USING YOUR IPAD FOR TRAVEL
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 This course is designed for people who may have recently acquired an iPad and wish to use it whilst on their travels.
