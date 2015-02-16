@@ -1,24 +1,35 @@
 ---
 layout: post
-title: "Construction Induction White Card"
-category: articles
-tags: [sample-post, readability, test, intro]
+title: Construction Induction White Card
+category: 
+  - articles
+tags: 
+  - "sample-post"
+  - readability
+  - test
+  - intro
+  - "sample-post,readability,test,intro"
 comments: true
 share: true
+published: true
+acfe: true
 ---
 
-Date: Thursday, 14th of August
+All persons carrying out any type of work on a construction site, including, but not
+restricted to builders, supervisors, trades, apprentices, labourers, cleaners, engineers, architects, surveyors, sales persons entering buildings still under construction and even schoolchildren on work experience must have a “Construction Induction card” to work onsite.
 
-Time: 9AM - 4PM
+**DAY:** Thursday
 
-Cost: $177 per person (inclusive of $27 Workplace registration Fee)
+**Date:** TBA
 
-Description: All persons carrying out any type of work on a construction site, including but not limited to builders, supervisors, apprentices, labourers, cleaners, engineers, architects, surveyors, slaes persons entering buildings still under construction and even schoolchildren on work experience must have a *Construction Induction card* to work onsite.
+**TIMES:** 9 am ~ 4 pm
 
-*Each participant must provide photo ID*
+**FEES:** $177.00 per person (inclusive of $27 Workplace registration Fee)
 
-Contact: Rebecca Ware
-Phone: [1800 66 00 30](tel:1800660030)
-Email: [rebecca.ware@stlaurence.org.au](mailto:rebecca.ware@stlaurence.org.au)
+**TRAINERS:** ACT
 
-Or apply below.
+**Contact:** Rebecca Ware
+
+**Phone:** 1800 660 030
+
+**Email:** Rebecca.ware@stlaurence.org.au
