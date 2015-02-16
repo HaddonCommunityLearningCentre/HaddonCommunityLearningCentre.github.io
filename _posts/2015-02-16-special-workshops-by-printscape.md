@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: SPECIAL WORKSHOPS BY PRINTSCAPE
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 ### Workshop 1: 
