@@ -4,7 +4,7 @@ published: false
 title: "YOGA/MEDITATION ~ HADDON & SMYTHESDALE"
 comments: true
 share: true
-acfe: true
+acfe: false
 ---
 
 ##YOGA/MEDITATION ~ HADDON & SMYTHESDALE
