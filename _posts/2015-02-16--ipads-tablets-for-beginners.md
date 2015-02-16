@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: "*IPADS/TABLETS FOR BEGINNERS"
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 If you have struggled with computers then why not try test drive a tablet as they are
