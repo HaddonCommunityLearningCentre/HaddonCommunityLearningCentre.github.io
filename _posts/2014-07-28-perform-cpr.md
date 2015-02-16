@@ -1,19 +1,26 @@
 ---
 layout: post
 title: "Perform CPR - HLTCPR211A"
-category: articles
-tags: [sample-post, readability, test, intro]
+category: 
+  - articles
+tags: 
+  - "sample-post"
+  - readability
+  - test
+  - intro
+  - "sample-post,readability,test,intro"
 comments: true
 share: true
 acfe: true
+published: true
 ---
 
-Date: Monday, July 28th, 2014
+This course covers all of the skills and knowledge required to perform Cardiopulmonary Resuscitation (CPR) in line with the Australian Resuscitation Council Guidelines.
 
-*Dependent on sufficient bookings, requires a minimum of 10 enrolees*
+**DAY:** Monday
 
-Time: 9AM - 11:00AM
+**DATE:** March 23rd
 
-Cost: $60 - Must book and pay at *least one week prior* as pre-work has to be completed before class commencement.
+**TIME:** 9 am - 11 pm
 
-Description: Following Australian Resuscitation Council Guidelines, valid for one year, this course teaches you the skills and knowledge required to perform Cardio-Pulmonary Resuscitation.
+**FEES:** $60.00 ~ book & pay at least one week prior.
