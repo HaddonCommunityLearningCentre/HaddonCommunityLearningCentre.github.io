@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: COMPUTERS FOR THE TERRIFIED
 comments: false
 share: true
