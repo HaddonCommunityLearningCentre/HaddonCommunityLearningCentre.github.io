@@ -1,18 +1,26 @@
 ---
 layout: post
-title: "Apply First Aid Certificate"
-category: articles
-tags: [sample-post, readability, test, intro]
+title: Apply First Aid Certificate
+category: 
+  - articles
+tags: 
+  - "sample-post"
+  - readability
+  - test
+  - intro
+  - "sample-post,readability,test,intro"
 comments: true
 share: true
+published: true
+acfe: true
 ---
 
-Date: Monday, July 28th, 2014
+This course covers all the necessary skills & knowledge required to provide first aid response, life support, management of casualty(ies), the incident & other first aiders, until the arrival of medical or other assistance.
 
-*Dependent on sufficient bookings, requires a minimum of 10 enrolees*
+**DAY:** Monday
 
-Time: 9AM - 3:00PM
+**DATE:** March 23rd
 
-Cost: $130 - *dependent on numbers*. Must book and pay at *least one week prior* as pre-work has to be completed before class commencement.
+**TIME:** 9 am - 3 pm
 
-Description: Covers all necessary skills and knowledge required to provide First Aid response, life support, management of casualties, and CPR.
+**FEES:** $130.00 (cost dependent on numbers. You must book & pay at least one week prior as pre work has to be completed before the start of course.
