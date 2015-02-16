@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: COMPUTERS FOR THE TERRIFIED
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 This course is for complete beginners without any computer skills. Become confident and comfortable using a computer in a relaxed and friendly environment. Small classes ensure personal attention.
