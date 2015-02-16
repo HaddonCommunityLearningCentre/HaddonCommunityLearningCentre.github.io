@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: HADDON QUILTERS ~ MONDAY NIGHTS
 comments: true
 share: true
