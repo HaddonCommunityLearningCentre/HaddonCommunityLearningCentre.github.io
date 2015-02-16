@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "ZINGY ZENTANGLES BEGINNERS & ADVANCED CLASS"
 comments: false
 share: true
