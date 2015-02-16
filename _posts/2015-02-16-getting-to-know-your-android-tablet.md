@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: GETTING TO KNOW YOUR ANDROID TABLET
 comments: false
 share: true
