@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: INTRODUCTION TO SAORI WEAVING
 comments: false
 share: true
