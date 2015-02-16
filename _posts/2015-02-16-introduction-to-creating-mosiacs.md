@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: Introduction to creating Mosiacs
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 ###Do you want to learn how to create beautiful and unique mosaic artworks?
