@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: SPECIAL QUARTERLY CRAFTERNOONS
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 Our popular ‘crafternoons’ are back for this year. Special regular
