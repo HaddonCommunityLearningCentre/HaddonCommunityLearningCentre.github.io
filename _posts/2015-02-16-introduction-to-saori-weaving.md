@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: INTRODUCTION TO SAORI WEAVING
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 Saori is a Japanese hand weaving technique that emphasises creativity and free expression.
