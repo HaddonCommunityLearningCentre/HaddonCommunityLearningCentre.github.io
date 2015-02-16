@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: DRAWING FOR COMPLETE BEGINNERS
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 Would you love to learn to draw?
