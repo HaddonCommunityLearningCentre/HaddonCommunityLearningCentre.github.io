@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: UNDERSTANDING YOUR DIGITAL SLR CAMERA
 comments: false
 share: true
