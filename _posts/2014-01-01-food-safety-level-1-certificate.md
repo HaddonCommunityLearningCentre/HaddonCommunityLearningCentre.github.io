@@ -1,14 +1,29 @@
 ---
 layout: post
-title: "Food Safety Level 1 Certificate"
-category: articles
-tags: [sample-post, readability, test, intro]
+title: Food Safety Level 1 Certificate
+category: 
+  - articles
+tags: 
+  - "sample-post"
+  - readability
+  - test
+  - intro
+  - "sample-post,readability,test,intro"
 comments: true
 share: true
+published: true
+acfe: true
 ---
 
-**Apply to Arrange a *Date* and *Time*.**
+Accredited course fulfils the requirements for those needing this qualification for their workplace or for their role as a volunteer. Students successfully completing
+this training will receive the nationally recognised certificate.
 
-Cost: $111 per person
+**DAY:** Saturdays (or ask for other options)
 
-Description: Nationally Recognised course that fulfills requirements for those needing this qualification for their workplace or for their role as a volunteer.
+**DATE:** TBA (phone to book in-house training)
+
+**TIME:** 9.00 am - 4.30 pm
+
+**FEES:** $111.00 (in-house cost per person)
+
+### In house courses can also be organised on request by a group.
