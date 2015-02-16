@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: SPECIAL WORKSHOPS BY PRINTSCAPE
 comments: false
 share: true
