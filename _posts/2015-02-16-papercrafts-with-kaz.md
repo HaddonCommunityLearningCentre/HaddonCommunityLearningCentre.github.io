@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: PAPERCRAFTS WITH KAZ
 comments: false
 share: true
