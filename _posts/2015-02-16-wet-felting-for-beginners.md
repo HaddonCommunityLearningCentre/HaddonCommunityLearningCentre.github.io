@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: WET FELTING FOR BEGINNERS
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 ### Felt a wool scarf
