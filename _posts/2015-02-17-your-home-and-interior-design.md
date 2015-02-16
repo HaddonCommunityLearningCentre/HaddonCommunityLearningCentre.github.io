@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: YOUR HOME AND INTERIOR DESIGN
 comments: true
 share: true
@@ -34,4 +34,3 @@ In this workshop you are going to experience an unadulterated and fun interior d
 **TIME:** 10 am ~ 3 pm
 
 **FEES:** $80.00
-
