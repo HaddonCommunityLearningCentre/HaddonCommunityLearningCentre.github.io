@@ -2,9 +2,11 @@
 layout: post
 published: false
 title: UNDERSTANDING YOUR DIGITAL SLR CAMERA
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
+category: 
+  - articles
 ---
 
 Understanding your digital SLR camera and crucial photography principles.
