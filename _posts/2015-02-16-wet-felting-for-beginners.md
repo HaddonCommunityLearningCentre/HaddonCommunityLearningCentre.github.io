@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: WET FELTING FOR BEGINNERS
 comments: false
 share: true
