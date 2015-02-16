@@ -1,20 +1,28 @@
 ---
 layout: post
-title: "Anaphylaxis"
-category: articles
-tags: [sample-post, readability, test, intro]
+title: Anaphylaxis
+category: 
+  - articles
+tags: 
+  - "sample-post"
+  - readability
+  - test
+  - intro
+  - "sample-post,readability,test,intro"
 comments: true
 share: true
+published: true
+acfe: true
 ---
 
-Date: Saturday, TBC.
+This course is designed to provide the knowledge to identify Anaphylactic Shock and the skills to manage an emergency with the use of an adrenaline Auto-Injector.
 
-*Dependent on sufficient bookings, requires a minimum of 10 enrolees*
+**DAY:** Monday
 
-Time: 3PM - 5PM
+**DATE:** March 23rd
 
-Cost: $60 - Must book and pay at *least one week prior* as pre-work has to be completed before class commencement.
+**TIME:** 3 am - 5 pm approx.
 
-Description: To provide the knowledge to identify anaphylactic shock and the skills to manage an emergency with the use of an adrenaline auto-injector.
+**FEES:** $60.00 (book & pay at one week prior.
 
 *This course is required for those working in Children's Services and Education.*
