@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "MUSIC LESSON FOR ALL AGES - ALL LEVELS"
 comments: false
 share: true
