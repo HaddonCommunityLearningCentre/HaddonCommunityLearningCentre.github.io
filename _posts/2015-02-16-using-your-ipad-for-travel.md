@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: USING YOUR IPAD FOR TRAVEL
 comments: false
 share: true
