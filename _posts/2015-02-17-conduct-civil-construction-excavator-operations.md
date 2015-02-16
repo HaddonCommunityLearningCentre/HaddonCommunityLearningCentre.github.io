@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: CONDUCT CIVIL CONSTRUCTION EXCAVATOR OPERATIONS
 comments: true
 share: true
