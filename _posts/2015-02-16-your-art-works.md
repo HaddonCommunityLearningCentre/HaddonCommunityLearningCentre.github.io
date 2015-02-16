@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "YOUR ART WORKS*"
 comments: false
 share: true
@@ -21,4 +21,3 @@ February 18th, 25th, March 4th, 11th, 18th, April 15th and 22nd
 
 **FEES:** $100.00 ($55.00 + $45.00 Amenities Fee)
 ($90.00 concession fee). Some materials will be required to be purchased.
-
