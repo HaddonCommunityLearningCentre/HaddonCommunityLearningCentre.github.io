@@ -2,9 +2,9 @@
 layout: post
 published: false
 title: GETTING TO KNOW YOUR ANDROID TABLET
-comments: true
+comments: false
 share: true
-acfe: true
+acfe: false
 ---
 
 This course is aimed at people who have purchased an Android tablet for home or work use and wish to learn about how to use it in everyday situations and some work applications.
