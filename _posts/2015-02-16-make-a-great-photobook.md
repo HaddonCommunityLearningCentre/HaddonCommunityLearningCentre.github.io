@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: MAKE A GREAT PHOTOBOOK
 comments: false
 share: true
