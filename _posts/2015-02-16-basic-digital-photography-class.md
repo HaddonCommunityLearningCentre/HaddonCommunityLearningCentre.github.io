@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: BASIC DIGITAL PHOTOGRAPHY CLASS
 comments: false
 share: true
