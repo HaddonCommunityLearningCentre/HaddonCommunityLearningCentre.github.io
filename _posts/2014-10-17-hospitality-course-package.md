@@ -1,10 +1,18 @@
 ---
 layout: post
-title: "Hospitality Course Package"
-category: articles
-tags: [sample-post, readability, test, intro]
+title: Hospitality Course Package
+category: 
+  - articles
+tags: 
+  - "sample-post"
+  - readability
+  - test
+  - intro
+  - "sample-post,readability,test,intro"
 comments: true
 share: true
+published: false
+acfe: true
 ---
 
 Dates:
